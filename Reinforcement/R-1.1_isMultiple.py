@@ -4,4 +4,4 @@ def is_multiple(n, m):
     else:
         return False
 
-print(is_multiple(2,30))
+print(is_multiple(2,20))
